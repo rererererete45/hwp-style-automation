@@ -1,4 +1,3 @@
-```javascript
 function OnScriptMacro_Style()
 {
     /*
@@ -162,4 +161,3 @@ function ApplyRealStyle(styleId)
         parameterSet
     );
 }
-```
